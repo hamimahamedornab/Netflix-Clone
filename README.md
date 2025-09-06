@@ -1,11 +1,13 @@
 
 🎬 Netflix Clone (React)
 
-A simple Netflix Clone built using React.js that replicates the UI and basic functionality of Netflix. This project includes pages like the homepage, sign-up page, and video player page.
+A simple Netflix Clone built using React.js that replicates the UI and basic functionality of Netflix. This project includes pages like the homepage, sign-up page, and video player page. This project fetches real movie and TV data from the TMDB API, making the experience dynamic and up-to-date.
 
 🚀 Features
 
 🎥 Homepage UI with movie/series categories (Only on Netflix, Upcoming, Top Picks).
+
+🔍 Browse Movies & TV Shows with real data from TMDB API.
 
 📝 Sign Up Page 
 
